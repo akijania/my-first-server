@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "4.17.1",
+    "express-handlebars": "3.1.0"
+  },
+  "name": "my-first-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/akijania/my-first-server.git",
+  "author": "Anna Kijania <kijania.anna@gmail.com>",
+  "license": "MIT"
+}
