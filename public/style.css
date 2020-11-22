@@ -101,6 +101,10 @@ button {
   animation-duration: 1s;
 }
 
+.isSent p {
+  color: #fff;
+}
+
 @-webkit-keyframes fadeIn {
   from {
     opacity: 0;
